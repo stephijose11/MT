@@ -1,0 +1,59 @@
+.login-container{
+   padding-left: 200px;
+   display: flex;
+   justify-content: center;
+   padding-top: 100px;
+    
+}
+.flex-c-m{
+
+padding-top: 20px;
+}
+.para1{
+    text-align: center;
+    font-weight: 400;
+}
+.bg2{
+    padding-left: 40px;
+}
+.bg3{
+    padding-left: 40px;
+}
+.bg4{
+    padding-left: 40px;
+}
+.submit{
+    background-color:rgba(0, 0, 0, 0.842);
+    font-style: normal;
+    color: aliceblue;
+    
+    padding-right: 140px;
+   
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.img{
+    padding-left: 200px;
+}
+.logintitle{
+    font-weight: 150px;
+    font-size: 30px;
+    padding-right: 100px;
+}
+.para{
+    padding-bottom: 10px;
+}
+.login-input{
+    padding-bottom: 5px;
+    
+}
+.loginform-control{
+    padding-bottom:20px ;
+}
+.login-input{
+    padding-bottom: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
